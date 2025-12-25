@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsen</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohsen-Mirahmadi&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Mirahmadi&show_icons=true)
+
 - 🔭 I’m currently working on **practice projects**
 
 - 🌱 I’m currently learning **Framework, coursec etc.**
